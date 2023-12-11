@@ -20,30 +20,53 @@ Jiangxi Agricultural University, Jiangxi, CHINA, B.S., 09/2011-07/2015, Veterina
 
 Publications
 ======
-Ke S., Liu Y, Koenen KC. Role of the Gut Microbiome in Posttraumatic Stress Disorder. 2023, Brain Behavior and Immunity, doi: 10.1016/j.bbi.2023.09.005.
-Ke S., Wang X, Ratanatharathorn A, Huang T, Roberts A, Grodstein F, Kubzansky L, Koenen KC, Liu Y. Association of Post-Traumatic Stress Disorder with Dietary Pattern and Gut Microbiome in a Cohort of Women. 2023, Nature Mental Health, doi: 10.1038/s44220-023-00145-6.
-Ke S*, Xiao Y*, Weiss ST, Chen X, Kelly CP, Liu Y.Y. A Computational Method to Dissect Colonization Resistance of the Gut Microbiota against Pathogens. 2023, doi: 10.1016/j.crmeth.2023.100576. Cell Reports Methods (* indicates co-first authors).
-Ke, S*, Guimond A.J*, Tworoger, S.S., Huang, T., Chan, A.T., Liu, Y.Y., Kubzansky, L.D. Gut feelings: Associations of emotions and emotion regulation with the gut microbiome in women. Psychological Medicine (2023), doi: 10.1017/S0033291723000612 (* indicates co-first authors).
-Wang X., Wang T., Schaub D.P., Chen C., Sun Z., Ke S., Hecker., Maaser-Hecker A., Zeleznik O.A., Zeleznik R., Litonjua A.A., DeMeo D.L., Lasky-Su J., Silverman E.K., Liu Y.Y., Weiss S.T. Benchmarking omics-based prediction of asthma development in children. Respiratory Research (2023), doi: 10.1186/s12931-023-02368-8. PMID: 36842969.
-Liu Q., He M., Zeng Z., Huang X., Fang S., Zhao Y., Ke S., Wu J., Zhou Y., Xiong X., Li Z., Fu H., Huang L., Chen C. Extensive identification of serum metabolites related to microbes in different gut locations and evaluating their associations with porcine fatness. Microbial Biotechnology (2023), doi: 10.1111/1751-7915.14245.
-Zhao C., Wang L., Ke .S., Chen X., Kenéz Á., Xu W., Wang D., Zhang F., Li Y., Cui Z., Qiao Y., Wang J., Sun W., Zhao J., Yao J., Yu Z., Cao Y. Yak rumen microbiome elevates fiber degradation ability and alters rumen fermentation pattern to increase feed efficiency. Animal Nutrition (2022), doi: 10.1016/j.aninu.2022.07.014.
-Ke S., Weiss S.T., Liu Y.Y. Dissecting the Role of the Human Microbiome in COVID-19 via Metagenome-assembled Genomes. Nature Communications, doi: 10.1038/s41467-022-32991-w. PMID: 36068270.
-Cao Y *, Wang L *, Ke S , Kelly P, Pollock R, Gálvez J, Daugherty K, Xu H, Yao J, Chen Y, Liu Y.Y, Chen X. Analysis of Intestinal Mycobiota of Patients with Clostridioides difficile Infection among a Prospective Inpatient Cohort. Microbiology Spectrum (2022), doi: 10.1128/spectrum.01362-22. PMID: 35867408 ( indicates co-first authors).
-Ke S., Weiss S.T., Liu Y.Y. (2022). Rejuvenating the Human Gut Microbiome. Trends in Molecular Medicine (2022), doi.10.1016/j.molmed.2022.05.005, PMID: 35781423. (Highlighted by more than 90 news, including NBC News, The Economists, Yahoo, Science daily, etc.)
-Yang H., Wu J., Huang X., Zhou Y., Zhang Y., Liu M., Liu Q., Ke S., He M., Fu H., Fang S., Xiong X., Jiang H., Chen Z., Wu Z., Gong H., Tong X., Huang Y., Ma J., Gao J., Charlier C., Coppieters W., Shagam L., Zhang Z., Ai H., Yang B., Georges M., Chen C., Huang L. ABO genotype alters the gut microbiota by regulating GalNAc levels in pigs. Nature (2022), doi: 10.1038/s41586-022-04769-z. PMID: 35477154.
-Ke S., Mitchell S.J., MacArthur M.R., Kane A.E., Sinclair D.A., Venable E.M., Chadaideh K.S., Carmody R.N., Grodstein F., Mitchell J.R., Liu Y.Y. Gut Microbiota Predicts Healthy Late-Life Aging in Male Mice. Nutrients (2021), doi: 10.3390/nu13093290. PMID: 34579167.
-Fu H., He M., Wu J., Zhou Y., Ke S., Chen Z., Liu Q., Liu M., Jiang H., Huang L., Chen C. Deep Investigating the Changes of Gut Microbiome and Its Correlation With the Shifts of Host Serum Metabolome Around Parturition in Sows. Frontiers in Microbiology (2021), doi: 10.3389/fmicb.2021.729039. PMID: 34603257.
-Zhang J., Liu M., Ke S., Huang X., Fang S., He M., Fu H., Chen C., Huang L. Gut and Vagina Microbiota Associated With Estrus Return of Weaning Sows and Its Correlation With the Changes in Serum Metabolites. Frontiers in Microbiology (2021), doi: 10.3389/fmicb.2021.690091. PMID: 34489885.
-Cao Y., Wang L., Ke S., Villafuerte Gálvez JA., Pollock N.R., Barrett C., Sprague R., Daugherty K., Xu H., Lin Q., Yao J., Chen Y., Kelly C.P., Liu Y.Y., Chen X. Fecal Mycobiota Combined With Host Immune Factors Distinguish Clostridioides difficile Infection From Asymptomatic Carriage. Gastroenterology (2021), doi: 10.1053/j.gastro.2021.02.069. PMID: 33684427 ( indicates co-first authors).
-Ke S., Pollock N.R., Wang XW., Chen X., Daugherty K., Lin Q., Xu H., Garey KW., Gonzales-Luna AJ., Kelly C.P., Liu Y.Y. Integrating gut microbiome and host immune markers to understand the pathogenesis of Clostridioides difficile infection. Gut Microbes (2021), doi: 10.1080/19490976.2021.1935186. PMID: 34132169.
-Huang X., Gao J., Zhao Y, He M, Ke S., Wu J, Zhou Y, Fu H, Yang H, Chen C, Huang L. Dramatic Remodeling of the Gut Microbiome Around Parturition and Its Relationship With Host Serum Metabolic Changes in Sows. Frontiers in Microbiology (2019), doi: 10.3389/fmicb.2019.02123. PMID: 31572329.
-He M., Gao J., Wu J., Zhou Y., Fu H., Ke S., Yang H., Chen C., Huang L. Host Gender and Androgen Levels Regulate Gut Bacterial Taxa in Pigs Leading to Sex-Biased Serum Metabolite Profiles. Frontiers in Microbiology (2019), doi: 10.3389/fmicb.2019.01359. PMID: 31275280.
-Ke S., Fang S., He M., Huang X, Yang H, Yang B, Chen C, Huang L. Age-based dynamic changes of phylogenetic composition and interaction networks of health pig gut microbiome feeding in a uniformed condition. BMC Veterinary Research (2019), doi: 10.1186/s12917-019-1918-5. PMID: 31126262.
-Yang H, Yang M, Fang S, Huang X, He M, Ke S., Gao J, Wu J, Zhou Y, Fu H, Chen C, Huang L. Evaluating the profound effect of gut microbiome on host appetite in pigs. BMC Microbiology (2018), doi: 10.1186/s12866-018-1364-8. PMID: 30547751.
-Huang X, Fang S, Yang H, Gao J, He M, Ke S., Zhao Y, Chen C, Huang L. Evaluating the contribution of gut microbiome to the variance of porcine serum glucose and lipid concentration. Scientific Report (2017), doi: 10.1038/s41598-017-15044-x. PMID: 29097803.
-Hu G., Song Y., Ke S., Cao H, Zhang C, Deng G, Yang F, Zhou S, Liu P, Guo X, Liu P. Tanshinone IIA protects against pulmonary arterial hypertension in broilers. Poultry Science (2017), doi: 10.3382/ps/pew322. PMID: 27702914. ( indicates co-first authors).
-Huang X., Huang T., Deng W., Yan G, Qiu H, Huang Y, Ke S., Hou Y, Zhang Y, Zhang Z, Fang S, Zhou L, Yang B, Ren J, Ai H, Huang L. Genome-wide association studies identify susceptibility loci affecting respiratory disease in Chinese Erhualian pigs under natural conditions. Animal Genetics (2017), doi: 10.1111/age.12504. PMID: 27615547.
-He M., Fang S., Huang X., Zhao Y., Ke S., Yang H., Li Z., Gao J, Chen C., Huang L. Evaluating the Contribution of Gut Microbiota to the Variation of Porcine Fatness with the Cecum and Fecal Samples. Frontiers in Microbiology (2016), doi: 10.3389/fmicb.2016.02108. PMID: 28066405.
+1. Ke S., Liu Y, Koenen KC. Role of the Gut Microbiome in Posttraumatic Stress Disorder. 2023, Brain Behavior and Immunity, doi: 10.1016/j.bbi.2023.09.005.
+
+2. Ke S., Wang X, Ratanatharathorn A, Huang T, Roberts A, Grodstein F, Kubzansky L, Koenen KC, Liu Y. Association of Post-Traumatic Stress Disorder with Dietary Pattern and Gut Microbiome in a Cohort of Women. 2023, Nature Mental Health, doi: 10.1038/s44220-023-00145-6.
+
+3. Ke S*, Xiao Y*, Weiss ST, Chen X, Kelly CP, Liu Y.Y. A Computational Method to Dissect Colonization Resistance of the Gut Microbiota against Pathogens. 2023, doi: 10.1016/j.crmeth.2023.100576. Cell Reports Methods (* indicates co-first authors).
+
+4. Ke, S*, Guimond A.J*, Tworoger, S.S., Huang, T., Chan, A.T., Liu, Y.Y., Kubzansky, L.D. Gut feelings: Associations of emotions and emotion regulation with the gut microbiome in women. Psychological Medicine (2023), doi: 10.1017/S0033291723000612 (* indicates co-first authors).
+
+5. Wang X., Wang T., Schaub D.P., Chen C., Sun Z., Ke S., Hecker., Maaser-Hecker A., Zeleznik O.A., Zeleznik R., Litonjua A.A., DeMeo D.L., Lasky-Su J., Silverman E.K., Liu Y.Y., Weiss S.T. Benchmarking omics-based prediction of asthma development in children. Respiratory Research (2023), doi: 10.1186/s12931-023-02368-8. PMID: 36842969.
+
+6. Liu Q., He M., Zeng Z., Huang X., Fang S., Zhao Y., Ke S., Wu J., Zhou Y., Xiong X., Li Z., Fu H., Huang L., Chen C. Extensive identification of serum metabolites related to microbes in different gut locations and evaluating their associations with porcine fatness. Microbial Biotechnology (2023), doi: 10.1111/1751-7915.14245.
+
+7. Zhao C., Wang L., Ke .S., Chen X., Kenéz Á., Xu W., Wang D., Zhang F., Li Y., Cui Z., Qiao Y., Wang J., Sun W., Zhao J., Yao J., Yu Z., Cao Y. Yak rumen microbiome elevates fiber degradation ability and alters rumen fermentation pattern to increase feed efficiency. Animal Nutrition (2022), doi: 10.1016/j.aninu.2022.07.014.
+
+8. Ke S., Weiss S.T., Liu Y.Y. Dissecting the Role of the Human Microbiome in COVID-19 via Metagenome-assembled Genomes. Nature Communications, doi: 10.1038/s41467-022-32991-w. PMID: 36068270.
+
+9. Cao Y *, Wang L *, Ke S , Kelly P, Pollock R, Gálvez J, Daugherty K, Xu H, Yao J, Chen Y, Liu Y.Y, Chen X. Analysis of Intestinal Mycobiota of Patients with Clostridioides difficile Infection among a Prospective Inpatient Cohort. Microbiology Spectrum (2022), doi: 10.1128/spectrum.01362-22. PMID: 35867408 ( indicates co-first authors).
+
+10. Ke S., Weiss S.T., Liu Y.Y. (2022). Rejuvenating the Human Gut Microbiome. Trends in Molecular Medicine (2022), doi.10.1016/j.molmed.2022.05.005, PMID: 35781423. (Highlighted by more than 90 news, including NBC News, The Economists, Yahoo, Science daily, etc.)
+
+11. Yang H., Wu J., Huang X., Zhou Y., Zhang Y., Liu M., Liu Q., Ke S., He M., Fu H., Fang S., Xiong X., Jiang H., Chen Z., Wu Z., Gong H., Tong X., Huang Y., Ma J., Gao J., Charlier C., Coppieters W., Shagam L., Zhang Z., Ai H., Yang B., Georges M., Chen C., Huang L. ABO genotype alters the gut microbiota by regulating GalNAc levels in pigs. Nature (2022), doi: 10.1038/s41586-022-04769-z. PMID: 35477154.
+
+12. Ke S., Mitchell S.J., MacArthur M.R., Kane A.E., Sinclair D.A., Venable E.M., Chadaideh K.S., Carmody R.N., Grodstein F., Mitchell J.R., Liu Y.Y. Gut Microbiota Predicts Healthy Late-Life Aging in Male Mice. Nutrients (2021), doi: 10.3390/nu13093290. PMID: 34579167.
+
+13. Fu H., He M., Wu J., Zhou Y., Ke S., Chen Z., Liu Q., Liu M., Jiang H., Huang L., Chen C. Deep Investigating the Changes of Gut Microbiome and Its Correlation With the Shifts of Host Serum Metabolome Around Parturition in Sows. Frontiers in Microbiology (2021), doi: 10.3389/fmicb.2021.729039. PMID: 34603257.
+
+14. Zhang J., Liu M., Ke S., Huang X., Fang S., He M., Fu H., Chen C., Huang L. Gut and Vagina Microbiota Associated With Estrus Return of Weaning Sows and Its Correlation With the Changes in Serum Metabolites. Frontiers in Microbiology (2021), doi: 10.3389/fmicb.2021.690091. PMID: 34489885.
+
+15. Cao Y., Wang L., Ke S., Villafuerte Gálvez JA., Pollock N.R., Barrett C., Sprague R., Daugherty K., Xu H., Lin Q., Yao J., Chen Y., Kelly C.P., Liu Y.Y., Chen X. Fecal Mycobiota Combined With Host Immune Factors Distinguish Clostridioides difficile Infection From Asymptomatic Carriage. Gastroenterology (2021), doi: 10.1053/j.gastro.2021.02.069. PMID: 33684427 ( indicates co-first authors).
+
+16. Ke S., Pollock N.R., Wang XW., Chen X., Daugherty K., Lin Q., Xu H., Garey KW., Gonzales-Luna AJ., Kelly C.P., Liu Y.Y. Integrating gut microbiome and host immune markers to understand the pathogenesis of Clostridioides difficile infection. Gut Microbes (2021), doi: 10.1080/19490976.2021.1935186. PMID: 34132169.
+
+17. Huang X., Gao J., Zhao Y, He M, Ke S., Wu J, Zhou Y, Fu H, Yang H, Chen C, Huang L. Dramatic Remodeling of the Gut Microbiome Around Parturition and Its Relationship With Host Serum Metabolic Changes in Sows. Frontiers in Microbiology (2019), doi: 10.3389/fmicb.2019.02123. PMID: 31572329.
+
+18. He M., Gao J., Wu J., Zhou Y., Fu H., Ke S., Yang H., Chen C., Huang L. Host Gender and Androgen Levels Regulate Gut Bacterial Taxa in Pigs Leading to Sex-Biased Serum Metabolite Profiles. Frontiers in Microbiology (2019), doi: 10.3389/fmicb.2019.01359. PMID: 31275280.
+
+19. Ke S., Fang S., He M., Huang X, Yang H, Yang B, Chen C, Huang L. Age-based dynamic changes of phylogenetic composition and interaction networks of health pig gut microbiome feeding in a uniformed condition. BMC Veterinary Research (2019), doi: 10.1186/s12917-019-1918-5. PMID: 31126262.
+
+20. Yang H, Yang M, Fang S, Huang X, He M, Ke S., Gao J, Wu J, Zhou Y, Fu H, Chen C, Huang L. Evaluating the profound effect of gut microbiome on host appetite in pigs. BMC Microbiology (2018), doi: 10.1186/s12866-018-1364-8. PMID: 30547751.
+
+21. Huang X, Fang S, Yang H, Gao J, He M, Ke S., Zhao Y, Chen C, Huang L. Evaluating the contribution of gut microbiome to the variance of porcine serum glucose and lipid concentration. Scientific Report (2017), doi: 10.1038/s41598-017-15044-x. PMID: 29097803.
+
+22. Hu G., Song Y., Ke S., Cao H, Zhang C, Deng G, Yang F, Zhou S, Liu P, Guo X, Liu P. Tanshinone IIA protects against pulmonary arterial hypertension in broilers. Poultry Science (2017), doi: 10.3382/ps/pew322. PMID: 27702914. ( indicates co-first authors).
+
+23. Huang X., Huang T., Deng W., Yan G, Qiu H, Huang Y, Ke S., Hou Y, Zhang Y, Zhang Z, Fang S, Zhou L, Yang B, Ren J, Ai H, Huang L. Genome-wide association studies identify susceptibility loci affecting respiratory disease in Chinese Erhualian pigs under natural conditions. Animal Genetics (2017), doi: 10.1111/age.12504. PMID: 27615547.
+
+24. He M., Fang S., Huang X., Zhao Y., Ke S., Yang H., Li Z., Gao J, Chen C., Huang L. Evaluating the Contribution of Gut Microbiota to the Variation of Porcine Fatness with the Cecum and Fecal Samples. Frontiers in Microbiology (2016), doi: 10.3389/fmicb.2016.02108. PMID: 28066405.
 
 
 Scientific papers (submitted)
