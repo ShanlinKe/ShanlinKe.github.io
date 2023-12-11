@@ -26,7 +26,7 @@ Work experience
 Skills
 ======
 * Dry-lab
-  * Sub-skill Metagenomic sequencing
+  * Sub-skill Metagenomic sequencing, bioinformatics
   * Sub-skill Machine learning
   * Sub-skill Genome assembly
 * Wet-lab
