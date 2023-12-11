@@ -71,8 +71,9 @@ Publications
 
 Scientific papers (submitted)
 ------
-Zhang Y, Ke S., Wang X, Liu Y.Y. Association rule mining of the human gut microbiome. 2022, doi: 10.1101/2022.11.27.518104. Bioinformatics Advances, under revision.
-Guimond A.J*, Ke S*, Tworoger S.S., Huang T., Chan A.T, Kubzansky L.D., and Liu Y.Y. Relationships of eudaimonic psychological well-being with the gut microbiome in older women, Psychosomatic Medicine, under revision(* indicates co-first authors).
+1. Zhang Y, Ke S., Wang X, Liu Y.Y. Association rule mining of the human gut microbiome. 2022, doi: 10.1101/2022.11.27.518104. Bioinformatics Advances, under revision.
+
+2. Guimond A.J*, Ke S*, Tworoger S.S., Huang T., Chan A.T, Kubzansky L.D., and Liu Y.Y. Relationships of eudaimonic psychological well-being with the gut microbiome in older women, Psychosomatic Medicine, in press (* indicates co-first authors).
 
 
 Awards
