@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in College of Animal Science and Technology, Jiangxi Agricultural University, 2015
+* Visiting student in Channing Division of Network Medicine, Harvard Medical School, MA, USA, 2018-2021
+* Ph.D in National Key Laboratory of Swine Genetic Improvement and Germplasm Innovation, Jiangxi Agricultural University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.3- : Postdoctoral Research Fellow
+  * Harvard Medical School
+  * Research included: Human microbiome
+  * Supervisor: Dr. Yang-Yu liu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Dry-lab
+  * Sub-skill Metagenomic sequencing
+  * Sub-skill Machine learning
+  * Sub-skill Genome assembly
+* Wet-lab
+  * Sub-skill qPCR, gel electrophoresis, DNA extraction, western plot.
+  * Sub-skill Mouse study, animal behavior test, stress.
 
 Publications
 ======
