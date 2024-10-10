@@ -22,7 +22,7 @@ Publications
 ======
 1. Ke S, Gálvez JAV, Sun Z, Cao Y, Pollock NR, Chen X, Kelly CP, Liu Y.Y. Rational Design of Live Biotherapeutic Products for the Prevention of Clostridioides difficile Infection. 2024, Doi: 10.1093/infdis/jiae470, The Journal of Infectious Diseases.
 
-2. Guimond A.J.*, Ke S.*, Tworoger S.S., Huang T., Chan A.T, Kubzansky L.D., and Liu Y.Y. Fulfilled mind, healthy gut? Relationships of eudaimonic psychological well-being with the gut microbiome in postmenopausal women, Psychosomatic Medicine, 2024, PMID: 38345311, doi: 10.1097/PSY.0000000000001278 (* indicates co-first authors). 
+2. Guimond A.J*, Ke S*, Tworoger S.S., Huang T., Chan A.T, Kubzansky L.D., and Liu Y.Y. Fulfilled mind, healthy gut? Relationships of eudaimonic psychological well-being with the gut microbiome in postmenopausal women, Psychosomatic Medicine, 2024, PMID: 38345311, doi: 10.1097/PSY.0000000000001278 (* indicates co-first authors). 
 
 3. Ke S., Liu Y, Koenen KC. Role of the Gut Microbiome in Posttraumatic Stress Disorder. 2023, Brain Behavior and Immunity, doi: 10.1016/j.bbi.2023.09.005.
 
