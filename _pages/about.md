@@ -40,7 +40,7 @@ Publications
 
 10. Ke S., Weiss S.T., Liu Y.Y. Dissecting the Role of the Human Microbiome in COVID-19 via Metagenome-assembled Genomes. Nature Communications, doi: 10.1038/s41467-022-32991-w. PMID: 36068270.
 
-11. Cao Y *, Wang L *, Ke S , Kelly P, Pollock R, Gálvez J, Daugherty K, Xu H, Yao J, Chen Y, Liu Y.Y, Chen X. Analysis of Intestinal Mycobiota of Patients with Clostridioides difficile Infection among a Prospective Inpatient Cohort. Microbiology Spectrum (2022), doi: 10.1128/spectrum.01362-22. PMID: 35867408 ( indicates co-first authors).
+11. Cao Y *, Wang L *, Ke S* , Kelly P, Pollock R, Gálvez J, Daugherty K, Xu H, Yao J, Chen Y, Liu Y.Y, Chen X. Analysis of Intestinal Mycobiota of Patients with Clostridioides difficile Infection among a Prospective Inpatient Cohort. Microbiology Spectrum (2022), doi: 10.1128/spectrum.01362-22. PMID: 35867408 ( indicates co-first authors).
 
 12. Ke S., Weiss S.T., Liu Y.Y. (2022). Rejuvenating the Human Gut Microbiome. Trends in Molecular Medicine (2022), doi.10.1016/j.molmed.2022.05.005, PMID: 35781423. (Highlighted by more than 90 news, including NBC News, The Economists, Yahoo, Science daily, etc.)
 
@@ -52,7 +52,7 @@ Publications
 
 16. Zhang J., Liu M., Ke S., Huang X., Fang S., He M., Fu H., Chen C., Huang L. Gut and Vagina Microbiota Associated With Estrus Return of Weaning Sows and Its Correlation With the Changes in Serum Metabolites. Frontiers in Microbiology (2021), doi: 10.3389/fmicb.2021.690091. PMID: 34489885.
 
-17. Cao Y., Wang L., Ke S., Villafuerte Gálvez JA., Pollock N.R., Barrett C., Sprague R., Daugherty K., Xu H., Lin Q., Yao J., Chen Y., Kelly C.P., Liu Y.Y., Chen X. Fecal Mycobiota Combined With Host Immune Factors Distinguish Clostridioides difficile Infection From Asymptomatic Carriage. Gastroenterology (2021), doi: 10.1053/j.gastro.2021.02.069. PMID: 33684427 ( indicates co-first authors).
+17. Cao Y*, Wang L*, Ke S*, Villafuerte Gálvez JA., Pollock N.R., Barrett C., Sprague R., Daugherty K., Xu H., Lin Q., Yao J., Chen Y., Kelly C.P., Liu Y.Y., Chen X. Fecal Mycobiota Combined With Host Immune Factors Distinguish Clostridioides difficile Infection From Asymptomatic Carriage. Gastroenterology (2021), doi: 10.1053/j.gastro.2021.02.069. PMID: 33684427 ( indicates co-first authors).
 
 18. Ke S., Pollock N.R., Wang XW., Chen X., Daugherty K., Lin Q., Xu H., Garey KW., Gonzales-Luna AJ., Kelly C.P., Liu Y.Y. Integrating gut microbiome and host immune markers to understand the pathogenesis of Clostridioides difficile infection. Gut Microbes (2021), doi: 10.1080/19490976.2021.1935186. PMID: 34132169.
 
