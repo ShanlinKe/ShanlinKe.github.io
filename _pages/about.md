@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ke Laboratory"
-excerpt: "About me"
+title: "Welcome to the Ke Lab (open on May, 2025)"
+excerpt: "Ke Laboratory"
 author_profile: true
 redirect_from: 
   - /about/
