@@ -23,3 +23,6 @@ main:
 
   - title: "Positions"
     url: /positions/ 
+
+  - title: "News"
+    url: /news/ 
