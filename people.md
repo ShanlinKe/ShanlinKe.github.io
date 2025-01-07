@@ -1,4 +1,4 @@
 ---
-people
-Dr. Shanlin Ke, 
+people: Dr. Shanlin Ke
+title: "People"
 ---
