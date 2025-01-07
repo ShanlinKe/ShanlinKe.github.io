@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/
+
+  - title: "People"
+    url: /people/
+    
   - title: "Publications"
     url: /publications/
 
@@ -11,12 +17,9 @@ main:
 
   - title: "Publicity"
     url: /publicity/
-  
-  - title: "People"
-    url: /people/
 
-  - title: "Research"
-    url: /research/
+  - title: "Tools"
+    url: /tools/
 
-  - title: "Publicity"
-    url: /publicity/
+  - title: "Positions"
+    url: /positions/ 
