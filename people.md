@@ -1,4 +1,4 @@
 ---
-people: Dr. Shanlin Ke
-title: "People"
+People: "Dr. Shanlin Ke"
+type: "People"
 ---
