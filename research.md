@@ -7,6 +7,7 @@ permalink: /research/
   1.	Bioinformatics
    a)	Generalized microbe-phenotype triangulation
 
+
   2.	Host-microbiota interactions
    a)	Dynamic Microbiome Changes: age and aging. 
    
@@ -17,8 +18,9 @@ permalink: /research/
    e) Post-traumatic stress disorder (PTSD).
    
    f)	Primary Sclerosing Cholangitis (PSC) and inflammatory bowel disease (IBD). 
+
    
-  4.	Microbiome-based therapeutics
+3.	Microbiome-based therapeutics
    a)	live biotherapeutic products
    
    b)	antimicrobial peptides (AMPs)
