@@ -4,23 +4,9 @@ title: "Research"
 permalink: /research/
 ---
 
-  1.	Bioinformatics
-   a)	Generalized microbe-phenotype triangulation
+   1.	Bioinformatics and machine learning
 
+   2.	Host-microbiota interactions
+  
+   3.	Microbiome-based therapeutics
 
-  2.	Host-microbiota interactions
-   a)	Dynamic Microbiome Changes: age and aging. 
-   
-   b)	Rejuvenating the human gut microbiome. 
-      
-   c)	Clostridioides difficile infection. 
-   
-   e) Post-traumatic stress disorder (PTSD).
-   
-   f)	Primary Sclerosing Cholangitis (PSC) and inflammatory bowel disease (IBD). 
-
-   
-3.	Microbiome-based therapeutics
-   a)	live biotherapeutic products
-   
-   b)	antimicrobial peptides (AMPs)
