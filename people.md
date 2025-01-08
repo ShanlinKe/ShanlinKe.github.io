@@ -2,6 +2,7 @@
 layout: page
 title: "People"
 permalink: /people/
+class: page-people
 ---
 
 # Lab Members
