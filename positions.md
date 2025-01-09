@@ -5,9 +5,13 @@ permalink: /positions/
 ---
 
 We currently have the following four types of positions in Microbiome Research:
+
 Post Doctoral Scholar 
+
 Graduate Students
+
 Undergraduate Students
+
 Visiting Scholars
 
 1.	Postdoctoral Positions in Microbiome Research
