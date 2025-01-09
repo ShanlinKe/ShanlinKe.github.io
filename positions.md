@@ -6,14 +6,6 @@ permalink: /positions/
 
 We currently have the following four types of positions in Microbiome Research:
 
-Post Doctoral Scholar 
-
-Graduate Students
-
-Undergraduate Students
-
-Visiting Scholars
-
 1.	Postdoctoral Positions in Microbiome Research
 The successful applicants should have a Ph.D. and are expected to have a strong background in one or more of the following fields: metagenomics, bioinformatics, machine learning, pancreatic diseases, in vivo, and in vitro experiments. Excellent organizational/interpersonal skills and strong publication record are essential. Qualified candidates should submit their application (consisting of a Cover Letter, CV (including the names of three references), and a Research Statement) in a single PDF file to Dr. Shanlin Ke at spske@channing.harvard.edu. The positions will remain open until filled.
 
