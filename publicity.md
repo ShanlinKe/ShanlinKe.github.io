@@ -55,8 +55,8 @@ permalink: /publicity/
 
      Cosmos Magazine: Would you store your poo to help future you?https://cosmosmagazine.com/science/biology/autologous-fmt-store-your-poo/
 
-WebMd: Your Poop May Hold the Secret to Long Life; https://www.webmd.com/digestive-disorders/news/20220913/poop-may-hold-secret-long-life
+     WebMd: Your Poop May Hold the Secret to Long Life; https://www.webmd.com/digestive-disorders/news/20220913/poop-may-hold-secret-long-life
 
-Healthy Day: Will You Be Depositing at the 'Stool Bank' Someday? https://consumer.healthday.com/6-30-will-you-be-depositing-at-the-stool-bank-someday-2657551064.html
+     Healthy Day: Will You Be Depositing at the 'Stool Bank' Someday? https://consumer.healthday.com/6-30-will-you-be-depositing-at-the-stool-bank-someday-2657551064.html
 
-New York Post: LefroyPreserving your poop could help save your life: Harvard scientists, https://nypost.com/2022/07/19/preserving-your-poop-could-help-save-your-life-harvard-scientists/
+     New York Post: LefroyPreserving your poop could help save your life: Harvard scientists, https://nypost.com/2022/07/19/preserving-your-poop-could-help-save-your-life-harvard-scientists/
