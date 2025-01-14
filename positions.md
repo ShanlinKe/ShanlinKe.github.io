@@ -4,7 +4,7 @@ title: "Positions"
 permalink: /positions/
 ---
 
-We currently have the following four types of positions in Microbiome Research:
+We currently have the following types of positions in Microbiome Research:
 
 1.	Postdoctoral Positions in Microbiome Research
    
